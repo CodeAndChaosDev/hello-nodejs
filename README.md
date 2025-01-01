@@ -70,13 +70,11 @@ Stay tuned for future videos on these topics!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 ### Let's Learn Together!
 
 If you have any questions or suggestions for future tutorials, feel free to leave a comment or open an issue. Don't forget to like, share, and subscribe!
 
----
 
 **Happy coding!**
 ```
