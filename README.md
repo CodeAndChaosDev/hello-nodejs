@@ -1,4 +1,3 @@
-```markdown
 # Hello, Node.js! - A Beginner's Guide to Node.js
 
 Welcome to the "Hello, Node.js!" project! In this guide, we will introduce you to the basics of Node.js by building a simple web server. This project is perfect for beginners and will help you understand how Node.js works, as well as the power of JavaScript on the server side.
@@ -27,9 +26,9 @@ To run this project, you'll need:
 
 You can check if you have Node.js installed by running the following command in your terminal:
 
-```bash
+
 node -v
-```
+
 
 If you don't have Node.js installed, please follow the installation instructions on the official [Node.js website](https://nodejs.org/).
 
@@ -37,9 +36,9 @@ If you don't have Node.js installed, please follow the installation instructions
 
 If your project includes any dependencies, you can install them using npm:
 
-```bash
+
 npm install
-```
+
 
 For this project, no additional dependencies are required unless you decide to extend it later.
 
@@ -49,9 +48,9 @@ For this project, no additional dependencies are required unless you decide to e
    
 2. Run the server:
 
-```bash
+
 node server.js
-```
+
 
 The server will be available at `http://localhost:3000/`.
 
@@ -77,5 +76,5 @@ If you have any questions or suggestions for future tutorials, feel free to leav
 
 
 **Happy coding!**
-```
+
 
